@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(40deg, #e37682 15%, #5f4d93 70%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(40deg, #e37682 15%, #5f4d93 70%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(40deg, #e37682 15%, #5f4d93 70%);
-		background-image: url("images/overlay.png"), linear-gradient(40deg, #e37682 15%, #5f4d93 70%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3229,19 +3229,19 @@ input, select, textarea {
 	}
 
 		#nav input, #nav select, #nav textarea {
-			color: #636363;
+			color: #020202;
 		}
 
 		#nav a:hover {
-			color: #636363;
+			color: #020202;
 		}
 
 		#nav strong, #nav b {
-			color: #636363;
+			color: #020202;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #636363;
+			color: #020202;
 		}
 
 		#nav blockquote {
@@ -3335,24 +3335,24 @@ input, select, textarea {
 
 	#main {
 		background-color: #ffffff;
-		color: #636363;
+		color: #020202;
 		border-radius: 0.25em;
 	}
 
 		#main input, #main select, #main textarea {
-			color: #636363;
+			color: #020202;
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #020202;
 		}
 
 		#main strong, #main b {
-			color: #636363;
+			color: #020202;
 		}
 
 		#main h1, #main h2, #main h3, #main h4, #main h5, #main h6 {
-			color: #636363;
+			color: #020202;
 		}
 
 		#main blockquote {
@@ -3379,7 +3379,7 @@ input, select, textarea {
 		#main .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 1px #dddddd;
-			color: #636363 !important;
+			color: #020202 !important;
 		}
 
 			#main input[type="submit"]:hover,
